@@ -1,0 +1,18 @@
+body {
+    margin: 10;
+    padding: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+  }
+  
+  .container {
+    border: 2px solid black;
+    width:1200px;
+    height:700px;
+    background-image: url(/GAME/finalgame/gameBackground.jpg);
+    background-size: cover;
+  } 
+  
